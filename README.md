@@ -15,7 +15,9 @@ node index.js add "タスク内容"
 
 タスクのリスト表示:
 node index.js list
+
 タスクの完了:
 node index.js complete 1
+
 タスクの削除:
 node index.js delete 1
