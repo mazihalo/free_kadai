@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fs-extra": "^11.2.0",
     "marked": "^14.0.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": []
 }
