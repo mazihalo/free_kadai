@@ -11,22 +11,11 @@ To-Doリストは，コマンドからタスクの追加、表示、完了、削
 
 使用方法
 タスクの追加:
-
-bash
-コードをコピーする
 node index.js add "タスク内容"
-タスクのリスト表示:
 
-bash
-コードをコピーする
+タスクのリスト表示:
 node index.js list
 タスクの完了:
-
-bash
-コードをコピーする
 node index.js complete 1
 タスクの削除:
-
-bash
-コードをコピーする
 node index.js delete 1
