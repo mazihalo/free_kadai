@@ -11,6 +11,8 @@ To-Doリストは，コマンドからタスクの追加、表示、完了、削
 
 使用方法
 
+まずcloneしてnpm install fs-exstraモジュールをインスト―ルする
+
 タスクの追加:
 node index.js add "タスク内容"
 
